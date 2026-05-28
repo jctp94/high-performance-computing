@@ -1,3 +1,8 @@
+Video exposición youtube
+https://youtu.be/gKxLgWnHNZQ
+
+La presentación se encuentra dentro de este mismo repositorio con el nombre presentacion_camilo.pdf
+
 # Análisis de Calidad del Agua con Machine Learning
 ### Ríos de la India — Implementación con PySpark y Scikit-Learn
 
